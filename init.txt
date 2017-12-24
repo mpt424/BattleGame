@@ -1,0 +1,17 @@
+Game
+battlefieldSize,100,200
+players,2
+soldiers,3
+p1,human,1
+normal,[2 3],M16
+paramedic,[10 31]
+sniper,[5 12],UZI
+p2,computer,0
+normal,[90 112],Missile
+sniper,[90 113],M16
+normal,[65 100],M16
+Objects
+weapon,M16,[5 5]
+Armor,BodyArmor,[5 5],0.8
+weapon,Missile,[15 115]
+solid,Tree,[13 11],4,4
